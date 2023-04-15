@@ -1,0 +1,12 @@
+/*#page-header{*/
+/*    background: transparent!important;*/
+/*}*/
+
+/*这两段在去蒙板*/
+/*#page-header.post-bg:before{*/
+/*    background-color: transparent!important;*/
+/*}*/
+
+#page-header:not(.not-top-img):before{
+    background-color: rgba(0,0,0,0.1)!important;
+}
