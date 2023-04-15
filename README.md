@@ -13,3 +13,7 @@ $ hexo server
 # 部署到远程站点
 $ hexo deploy
 ```
+```shell
+# 网站压缩
+$ gulp
+```
